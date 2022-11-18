@@ -1,0 +1,6 @@
+package com.example.animals
+
+class Predators(val name:String) {
+    var diet1: String = "ест мясо"
+    var fangs1: String = "острые клыки"
+}
